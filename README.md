@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @seanpharris
 - 👀 I’m interested in learning new things and creating fun/useful products.
-- 🌱 I’m currently learning about the Elastic Stack.
 - 📫 How to reach me -- pharris.sean@gmail.com
 
 <!---
