@@ -1,6 +1,12 @@
-- Hi, I’m @seanpharris
+## Hi, I’m @seanpharris
 
-- Contact info -- pharris.sean@gmail.com
+## Interest:
+- Currently pursuing a MS in Data Analytics
+- Learning new python packages
+- Using new tools 
+
+## Contact info 
+- pharris.sean@gmail.com
 - LinkedIn -- https://www.linkedin.com/in/sean-pharris-32656a201/
 
 <!---
