@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @seanpharris
-- 👀 I’m interested in learning new things and creating fun/useful products.
-- 📫 How to reach me -- pharris.sean@gmail.com
+- Hi, I’m @seanpharris
+
+- Contact info -- pharris.sean@gmail.com
+- LinkedIn -- https://www.linkedin.com/in/sean-pharris-32656a201/
 
 <!---
 seanpharris/seanpharris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
